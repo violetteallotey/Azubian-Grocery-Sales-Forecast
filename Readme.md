@@ -37,7 +37,7 @@ The repository is organized as follows:
 
 Feel free to explore the notebooks and source code to gain a deeper understanding of the case study methodology.
 
-## Contributing
+## Contribution
 
 If you have any suggestions or improvements, feel free to raise an issue or contact me.
 
