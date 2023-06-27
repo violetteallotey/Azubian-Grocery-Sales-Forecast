@@ -5,9 +5,10 @@
 <!-- [![Streamlit App](https://img.shields.io/badge/Docker-App-yellow)](https://huggingface.co/spaces/Adoley/Sepsis-Prediction-Using-FastAPI) -->
 [![Website Portfolio](https://img.shields.io/badge/My-Website-darkgreen)](https://adoley.my.canva.site/)
 
+![ai(3)](https://github.com/violetteallotey/Azubian-Grocery-Sales-Forecast/blob/main/Black%20Doodle%20Group%20Project%20Presentation.gif)
+
 <!-- [![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)](https://huggingface.co/spaces/ikoghoemmanuell/Predicting_Weekly_Sales/)
 
-![ai(3)](https://github.com/violetteallotey/Sepsis_Prediction_with_Machine-Learning-FastAPI/blob/main/assets/screenshots/sepsis%20prediction.jpg) -->
 
 ## Introduction
 
