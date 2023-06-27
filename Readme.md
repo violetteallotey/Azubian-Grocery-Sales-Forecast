@@ -10,6 +10,7 @@
 <!-- [![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)](https://huggingface.co/spaces/ikoghoemmanuell/Predicting_Weekly_Sales/)
 
 
+<!--  -->
 ## Introduction
 
 This repository serves as a case study for the Grocery Store Forecasting Challenge for Azubian on Zindi Africa. The challenge focuses on predicting the sales of various products in grocery stores based on historical data. This case study explores the data, methodologies, and models used to tackle the challenge, providing insights into the predictive analytics process.
