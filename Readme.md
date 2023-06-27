@@ -1,5 +1,14 @@
 # Grocery Store Forecasting Challenge for Azubian: Case Study
 
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/violetteallotey?tab=repositories)
+<!-- [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@violetteallotey/fastapi-spells-conjuring-predictive-powers-for-sepsis-detection-adfd22866b77) -->
+<!-- [![Streamlit App](https://img.shields.io/badge/Docker-App-yellow)](https://huggingface.co/spaces/Adoley/Sepsis-Prediction-Using-FastAPI) -->
+[![Website Portfolio](https://img.shields.io/badge/My-Website-darkgreen)](https://adoley.my.canva.site/)
+
+<!-- [![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)](https://huggingface.co/spaces/ikoghoemmanuell/Predicting_Weekly_Sales/)
+
+![ai(3)](https://github.com/violetteallotey/Sepsis_Prediction_with_Machine-Learning-FastAPI/blob/main/assets/screenshots/sepsis%20prediction.jpg) -->
+
 ## Introduction
 
 This repository serves as a case study for the Grocery Store Forecasting Challenge for Azubian on Zindi Africa. The challenge focuses on predicting the sales of various products in grocery stores based on historical data. This case study explores the data, methodologies, and models used to tackle the challenge, providing insights into the predictive analytics process.
